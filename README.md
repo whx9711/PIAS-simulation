@@ -10,7 +10,7 @@ Step 2: To trace the start time and end time of a flow, we modified the tcp.h, t
 Step 3: go to the folder ns2.34, run the command:
         make
         
-Step 4: run the simulation script.
+Step 4: run the simulation script.run the command:
         ns pias.tcl
         
 Step 5: The completion time of short flows can be found at file trace_cmptime.tr.
